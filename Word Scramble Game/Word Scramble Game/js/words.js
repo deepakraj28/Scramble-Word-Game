@@ -92,11 +92,11 @@ let words =[
         hint: "Place containing collection of books"
     },
     {
-        word: "rdrtianyaorex",
+        word: "extraordinary",
         hint: " More than usual, remarkable"
     }, 
     {
-        word: "mlebrsca",
+        word: "scramble",
         hint: "To mix up the letters of a word"
     }
 ]
